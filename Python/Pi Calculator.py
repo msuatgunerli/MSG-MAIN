@@ -27,6 +27,3 @@ def estimate_pi(n):
 
 estimate_pi(10000)
 
-
-
-

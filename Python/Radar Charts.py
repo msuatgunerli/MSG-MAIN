@@ -1,4 +1,4 @@
-öz# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 Created on Mon Nov 18 18:14:54 2019
 
