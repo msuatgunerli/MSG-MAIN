@@ -1,4 +1,5 @@
 library(tidyverse)
+#br
 who1 <- who %>%
   #bundan once reoder edip oyle de gather yapılabilir
   gather(
