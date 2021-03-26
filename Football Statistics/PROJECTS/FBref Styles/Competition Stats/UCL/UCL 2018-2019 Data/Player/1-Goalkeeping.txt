@@ -1,0 +1,51 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+1,Igor Akinfeev\Igor-Akinfeev,ru RUS,GK,ru CSKA Moscow,32,1986,5,5,449,5.0,1.20,1.20,5.00,3.80,76.0,0.40,0.20,0.40,0.40,40.0,0.20,0.00,0.20,0.00,100.0,Matches
+2,Alisson\Alisson,br BRA,GK,eng Liverpool,25,1992,13,13,1170,13.0,0.92,0.92,4.38,3.54,78.9,0.62,0.08,0.31,0.46,46.2,0.00,0.00,0.00,0.00,,Matches
+3,Alphonse Areola\Alphonse-Areola,fr FRA,GK,fr Paris S-G,25,1993,3,3,270,3.0,2.00,2.00,5.00,3.33,66.7,0.33,0.33,0.33,0.00,0.0,0.33,0.33,0.00,0.00,0.0,Matches
+4,Loic Badiashile\Loic-Badiashile,fr FRA,GK,fr Monaco,20,1998,1,1,90,1.0,1.00,1.00,5.00,4.00,80.0,0.00,1.00,0.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+5,David von Ballmoos\David-von-Ballmoos,ch SUI,GK,ch Young Boys,23,1994,4,4,360,4.0,2.50,2.50,5.00,2.75,55.0,0.00,0.00,1.00,0.00,0.0,0.25,0.25,0.00,0.00,0.0,Matches
+6,Vasilios Barkas\Vasilios-Barkas,gr GRE,GK,gr AEK Athens,24,1994,6,6,540,6.0,2.17,2.17,6.33,4.50,71.1,0.00,0.00,1.00,0.00,0.0,0.33,0.33,0.00,0.00,0.0,Matches
+7,Oliver Baumann\Oliver-Baumann,de GER,GK,de Hoffenheim,28,1990,6,6,540,6.0,2.33,2.33,7.50,5.17,68.9,0.00,0.50,0.50,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+8,Diego Benaglio\Diego-Benaglio,ch SUI,GK,fr Monaco,34,1983,5,5,405,4.5,2.22,2.22,3.78,1.78,47.1,0.00,0.00,1.11,0.00,0.0,0.22,0.22,0.00,0.00,0.0,Matches
+9,Milan Borjan\Milan-Borjan,ca CAN,GK,rs Red Star,30,1987,6,6,540,6.0,2.83,2.83,9.33,6.67,71.4,0.17,0.17,0.67,0.33,33.3,0.33,0.17,0.00,0.17,0.0,Matches
+10,Gianluigi Buffon\Gianluigi-Buffon,it ITA,GK,fr Paris S-G,40,1978,5,5,450,5.0,1.20,1.20,2.20,1.60,72.7,0.60,0.20,0.20,0.20,20.0,0.60,0.60,0.00,0.00,0.0,Matches
+11,Roman Bürki\Roman-Burki,ch SUI,GK,de Dortmund,27,1990,7,7,630,7.0,0.86,0.86,3.29,2.43,73.9,0.43,0.14,0.43,0.57,57.1,0.00,0.00,0.00,0.00,,Matches
+12,Iker Casillas\Iker-Casillas,es ESP,GK,pt Porto,37,1981,10,10,930,10.3,1.46,1.45,3.11,1.94,62.5,0.58,0.10,0.29,0.10,10.0,0.49,0.29,0.00,0.19,0.0,Matches
+13,Jasper Cillessen\Jasper-Cillessen,nl NED,GK,es Barcelona,29,1989,1,1,90,1.0,1.00,1.00,7.00,6.00,85.7,0.00,1.00,0.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+14,Thibaut Courtois\Thibaut-Courtois,be BEL,GK,es Real Madrid,26,1992,5,5,450,5.0,1.60,1.60,5.80,4.20,72.4,0.60,0.00,0.40,0.40,40.0,0.00,0.00,0.00,0.00,,Matches
+15,Jaume Doménech\Jaume-Domenech,es ESP,GK,es Valencia,27,1990,1,1,90,1.0,1.00,1.00,5.00,4.00,80.0,1.00,0.00,0.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+16,Ederson\Ederson,br BRA,GK,eng Manchester City,24,1993,10,10,900,10.0,1.20,1.20,2.80,1.90,67.9,0.70,0.10,0.20,0.30,30.0,0.30,0.30,0.00,0.00,0.0,Matches
+17,Ralf Fährmann\Ralf-Fahrmann,de GER,GK,de Schalke 04,29,1988,6,6,540,6.0,2.33,2.33,4.50,2.50,55.6,0.33,0.17,0.50,0.33,33.3,0.50,0.33,0.00,0.17,0.0,Matches
+18,Paulo Gazzaniga\Paulo-Gazzaniga,ar ARG,GK,eng Tottenham,26,1992,1,1,90,1.0,1.00,1.00,4.00,3.00,75.0,1.00,0.00,0.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+19,David de Gea\David-de-Gea,es ESP,GK,eng Manchester Utd,27,1990,9,9,810,9.0,1.00,1.00,3.44,2.56,71.0,0.44,0.11,0.44,0.33,33.3,0.00,0.00,0.00,0.00,,Matches
+20,Mathieu Gorgelin\Mathieu-Gorgelin,fr FRA,GK,fr Lyon,27,1990,1,0,56,0.6,5.00,4.82,6.67,1.67,25.0,0.00,0.00,0.00,0.00,,0.00,0.00,0.00,0.00,,Matches
+21,Samir Handanović\Samir-Handanovic,si SVN,GK,it Inter,34,1984,6,6,540,6.0,1.17,1.17,7.17,6.00,83.7,0.33,0.33,0.33,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+22,Marwin Hitz\Marwin-Hitz,ch SUI,GK,de Dortmund,30,1987,1,1,90,1.0,0.00,0.00,0.00,0.00,,1.00,0.00,0.00,1.00,100.0,0.00,0.00,0.00,0.00,,Matches
+23,Ethan Horvath\Ethan-Horvath,us USA,GK,be Club Brugge,23,1995,3,3,270,3.0,0.00,0.00,3.67,3.67,100.0,0.33,0.67,0.00,1.00,100.0,0.00,0.00,0.00,0.00,,Matches
+24,Aleš Hruška\Ales-Hruska,cz CZE,GK,cz Viktoria Plzeň,32,1985,4,4,360,4.0,2.25,2.25,5.50,3.50,63.6,0.50,0.00,0.50,0.00,0.0,0.25,0.25,0.00,0.00,0.0,Matches
+25,Matúš Kozáčik\Matus-Kozacik,sk SVK,GK,cz Viktoria Plzeň,34,1983,2,2,180,2.0,3.50,3.50,9.50,6.50,68.4,0.00,0.50,0.50,0.00,0.0,0.50,0.50,0.00,0.00,0.0,Matches
+26,Georgii Kyrnats\Georgii-Kyrnats,ru RUS,GK,ru CSKA Moscow,20,1998,1,0,,0.0,0,,0,0,,0,0,0,1,,0,0,0,0,,Matches
+27,Karlo Letica\Karlo-Letica,hr CRO,GK,be Club Brugge,21,1997,3,3,270,3.0,1.67,1.67,4.33,2.67,61.5,0.00,0.33,0.67,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+28,Hugo Lloris\Hugo-Lloris,fr FRA,GK,eng Tottenham,31,1986,11,11,978,10.9,1.38,1.38,3.94,2.66,67.4,0.46,0.18,0.37,0.37,36.4,0.18,0.09,0.09,0.00,50.0,Matches
+29,Anthony Lopes\Anthony-Lopes,pt POR,GK,fr Lyon,27,1990,8,8,664,7.4,1.76,1.76,6.49,4.86,75.0,0.14,0.81,0.14,0.14,12.5,0.14,0.14,0.00,0.00,0.0,Matches
+30,Guilherme Marinato\Guilherme-Marinato,ru RUS,GK,ru Loko Moscow,32,1985,6,6,540,6.0,2.00,2.00,5.33,3.67,68.8,0.17,0.00,0.83,0.17,16.7,0.33,0.33,0.00,0.00,0.0,Matches
+31,Antonio Mirante\Antonio-Mirante,it ITA,GK,it Roma,35,1983,2,2,180,2.0,1.50,1.50,3.50,2.00,57.1,0.50,0.00,0.50,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+32,Fernando Muslera\Fernando-Muslera,uy URU,GK,tr Galatasaray,32,1986,6,6,540,6.0,1.33,1.33,3.83,2.83,69.6,0.17,0.17,0.67,0.33,33.3,0.17,0.17,0.00,0.00,0.0,Matches
+33,Keylor Navas\Keylor-Navas,cr CRC,GK,es Real Madrid,31,1986,3,3,270,3.0,0.67,0.67,3.00,2.33,77.8,0.67,0.00,0.33,0.33,33.3,0.00,0.00,0.00,0.00,,Matches
+34,Neto\Neto,br BRA,GK,es Valencia,29,1989,5,5,450,5.0,1.00,1.00,4.20,3.80,90.5,0.20,0.40,0.40,0.20,20.0,0.60,0.60,0.00,0.00,0.0,Matches
+35,Manuel Neuer\Manuel-Neuer,de GER,GK,de Bayern Munich,32,1986,8,8,720,8.0,1.00,1.00,3.63,2.75,75.9,0.50,0.38,0.13,0.50,50.0,0.13,0.13,0.00,0.00,0.0,Matches
+36,Alexander Nübel\Alexander-Nubel,de GER,GK,de Schalke 04,21,1996,2,2,180,2.0,0.00,0.00,1.50,1.50,100.0,0.50,0.50,0.00,1.00,100.0,0.00,0.00,0.00,0.00,,Matches
+37,Jan Oblak\Jan-Oblak,si SVN,GK,es Atlético Madrid,25,1993,8,8,720,8.0,1.13,1.13,2.38,1.38,57.9,0.63,0.13,0.25,0.50,50.0,0.25,0.13,0.00,0.13,0.0,Matches
+38,Robin Olsen\Robin-Olsen,se SWE,GK,it Roma,28,1990,6,6,570,6.3,1.43,1.42,5.87,4.60,78.4,0.48,0.00,0.48,0.32,33.3,0.16,0.16,0.00,0.00,0.0,Matches
+39,André Onana\Andre-Onana,cm CMR,GK,nl Ajax,22,1996,12,12,1080,12.0,1.08,1.08,4.17,3.17,76.0,0.50,0.33,0.17,0.33,33.3,0.08,0.08,0.00,0.00,0.0,Matches
+40,David Ospina\David-Ospina,co COL,GK,it Napoli,29,1988,6,6,540,6.0,0.83,0.83,3.50,2.83,76.2,0.33,0.50,0.17,0.33,33.3,0.00,0.00,0.00,0.00,,Matches
+41,Ilya Pomazun\Ilya-Pomazun,ru RUS,GK,ru CSKA Moscow,21,1996,1,1,90,1.0,3.00,3.00,13.0,10.0,76.9,0.00,0.00,1.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+42,Andriy Pyatov\Andriy-Pyatov,ua UKR,GK,ua Shakhtar,34,1984,6,6,540,6.0,2.67,2.67,5.67,3.33,58.8,0.17,0.50,0.33,0.00,0.0,0.33,0.33,0.00,0.00,0.0,Matches
+43,Sergio Romero\Sergio-Romero,ar ARG,GK,eng Manchester Utd,31,1987,1,1,90,1.0,2.00,2.00,4.00,3.00,50.0,0.00,0.00,1.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+44,Danijel Subašić\Danijel-Subasic,hr CRO,GK,fr Monaco,33,1984,1,0,45,0.5,6.00,6.00,10.0,4.00,40.0,,,,0.00,,2.00,0.00,0.00,2.00,,Matches
+45,Wojciech Szczęsny\Wojciech-Szczesny,pl POL,GK,it Juventus,28,1990,10,10,900,10.0,0.90,0.90,3.10,2.40,74.2,0.50,0.10,0.40,0.50,50.0,0.20,0.10,0.00,0.10,0.0,Matches
+46,Marc-André ter Stegen\Marc-Andre-ter-Stegen,de GER,GK,es Barcelona,26,1992,11,11,990,11.0,0.82,0.82,3.36,2.55,75.7,0.73,0.18,0.09,0.55,54.5,0.00,0.00,0.00,0.00,,Matches
+47,Odisseas Vlachodimos\Odisseas-Vlachodimos,gr GRE,GK,pt Benfica,24,1994,6,6,540,6.0,1.83,1.83,6.00,4.17,69.4,0.33,0.17,0.50,0.17,16.7,0.00,0.00,0.00,0.00,,Matches
+48,Michel Vorm\Michel-Vorm,nl NED,GK,eng Tottenham,34,1983,2,1,99,1.1,2.73,2.73,4.55,1.82,40.0,0.00,0.00,0.91,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+49,Marco Wölfli\Marco-Wolfli,ch SUI,GK,ch Young Boys,35,1982,2,2,180,2.0,1.00,1.00,5.00,4.00,80.0,0.50,0.50,0.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+50,Jeroen Zoet\Jeroen-Zoet,nl NED,GK,nl PSV Eindhoven,27,1991,6,6,540,6.0,2.17,2.17,8.50,6.33,74.5,0.00,0.33,0.67,0.00,0.0,0.00,0.00,0.00,0.00,,Matches

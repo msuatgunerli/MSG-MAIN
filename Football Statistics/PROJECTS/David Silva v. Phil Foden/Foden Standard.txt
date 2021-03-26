@@ -1,0 +1,6 @@
+Season,Age,Squad,Country,Comp,LgRank,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,xG,npxG,xA,npxG+xA,xG,xA,xG+xA,npxG,npxG+xA,Matches
+2017-2018,17,Manchester City,eng ENG,Jr. PL2 — Div. 1,6th,9,9,810,9.0,0.67,0.33,0.67,0.00,0.00,0.11,0.00,0.67,0.33,1.00,0.67,1.00,,,,,,,,,,Matches
+2017-2018,17,Manchester City,eng ENG,1. Premier League,1st,5,0,49,0.5,0.00,2.00,0.00,0.00,0.00,0.00,0.00,0.00,1.84,1.84,0.00,1.84,0.00,0.00,0.60,0.60,0.00,0.64,0.64,0.00,0.64,Matches
+2018-2019,18,Manchester City,eng ENG,1. Premier League,1st,13,3,335,3.7,0.27,0.00,0.27,0.00,0.00,0.00,0.00,0.27,0.00,0.27,0.27,0.27,0.68,0.68,0.16,0.84,0.67,0.16,0.83,0.67,0.83,Matches
+2019-2020,19,Manchester City,eng ENG,1. Premier League,2nd,23,9,901,10.0,0.50,0.20,0.50,0.00,0.00,0.00,0.00,0.50,0.20,0.70,0.50,0.70,0.43,0.43,0.20,0.63,0.43,0.20,0.63,0.43,0.63,Matches
+2020-2021,20,Manchester City,eng ENG,1. Premier League,1st,21,13,1250,13.9,0.43,0.22,0.43,0.00,0.00,0.00,0.00,0.43,0.22,0.65,0.43,0.65,0.27,0.27,0.24,0.51,0.27,0.24,0.51,0.27,0.51,Matches

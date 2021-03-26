@@ -1,0 +1,58 @@
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+1,Jeff Attinella\Jeff-Attinella,us USA,GK,Portland,31,1988,1,1,90,1.0,3.00,3.00,7.00,4.00,57.1,0.00,0.00,1.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+2,Joe Bendik\Joe-Bendik,us USA,GK,Philadelphia,30,1989,2,1,91,1.0,2.00,1.98,3.00,1.00,33.3,0.00,0.00,1.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+3,David Bingham\David-Bingham,us USA,GK,LA Galaxy,30,1989,18,18,1620,18.0,1.94,1.94,4.56,2.78,61.0,0.28,0.22,0.50,0.17,16.7,0.28,0.17,0.11,0.00,40.0,Matches
+4,Andre Blake\Andre-Blake,jm JAM,GK,Philadelphia,29,1990,21,21,1889,21.0,0.86,0.86,3.90,3.05,79.3,0.62,0.24,0.14,0.38,38.1,0.10,0.05,0.00,0.05,0.0,Matches
+5,Alex Bono\Alex-Bono,us USA,GK,Toronto FC,25,1994,3,3,270,3.0,0.00,0.00,5.67,5.67,100.0,0.67,0.33,0.00,1.00,100.0,0.33,0.00,0.00,0.33,,Matches
+6,Evan Bush\Evan-Bush,us USA,GK,Vancouver,33,1986,8,8,720,8.0,1.25,1.25,3.88,2.63,71.0,0.50,0.00,0.50,0.13,12.5,0.13,0.13,0.00,0.00,0.0,Matches
+7,Steve Clark\Steve-Clark,us USA,GK,Portland,33,1986,20,20,1800,20.0,1.30,1.30,4.45,3.05,71.9,0.50,0.30,0.20,0.25,25.0,0.10,0.05,0.05,0.00,50.0,Matches
+8,Maxime Crépeau\Maxime-Crepeau,ca CAN,GK,Vancouver,25,1994,4,4,327,3.6,2.78,2.75,5.28,2.78,52.6,0.28,0.00,0.83,0.28,25.0,0.28,0.28,0.00,0.00,0.0,Matches
+9,Mario Daniel Vega\Mario-Daniel-Vega,ar ARG,GK,San Jose,35,1984,12,12,1080,12.0,3.08,3.08,6.25,3.33,54.7,0.17,0.33,0.50,0.25,25.0,0.33,0.25,0.08,0.00,25.0,Matches
+10,Clément Diop\Clement-Diop,sn SEN,GK,Montreal,26,1993,20,20,1800,20.0,1.80,1.80,5.30,3.65,67.9,0.35,0.10,0.55,0.15,15.0,0.15,0.10,0.05,0.00,33.3,Matches
+11,Bobby Edwards\Bobby-Edwards,us USA,GK,FC Cincinnati,24,1995,2,2,180,2.0,1.50,1.50,2.50,1.50,60.0,0.50,0.00,0.50,0.00,0.0,0.50,0.50,0.00,0.00,0.0,Matches
+12,Matt Freese\Matt-Freese,us USA,GK,Philadelphia,21,1998,1,1,90,1.0,0.00,0.00,1.00,1.00,100.0,1.00,0.00,0.00,1.00,100.0,0.00,0.00,0.00,0.00,,Matches
+13,Stefan Frei\Stefan-Frei,ch SUI,GK,Seattle,33,1986,22,22,1980,22.0,1.05,1.05,3.64,2.64,73.8,0.50,0.27,0.23,0.27,27.3,0.09,0.09,0.00,0.00,0.0,Matches
+14,Pedro Gallese\Pedro-Gallese,pe PER,GK,Orlando City,29,1990,19,19,1710,19.0,1.05,1.05,3.74,2.79,73.2,0.58,0.26,0.16,0.16,15.8,0.11,0.05,0.05,0.00,50.0,Matches
+15,Jesse Gonzalez\Jesse-Gonzalez,mx MEX,GK,FC Dallas,24,1995,2,2,180,2.0,1.00,1.00,2.50,1.50,60.0,0.50,0.50,0.00,0.50,50.0,0.00,0.00,0.00,0.00,,Matches
+16,Brad Guzan\Brad-Guzan,us USA,GK,Atlanta,35,1984,23,23,2070,23.0,1.30,1.30,3.78,2.48,65.5,0.26,0.17,0.57,0.26,26.1,0.00,0.00,0.00,0.00,,Matches
+17,Bill Hamid\Bill-Hamid,us USA,GK,D.C. United,29,1990,17,17,1530,17.0,1.88,1.88,4.88,3.18,63.9,0.18,0.24,0.59,0.12,11.8,0.18,0.12,0.00,0.06,0.0,Matches
+18,Thomas Hasal\Thomas-Hasal,ca CAN,GK,Vancouver,20,1999,9,8,753,8.4,1.79,1.79,5.48,3.93,69.6,0.48,0.00,0.48,0.12,12.5,0.12,0.12,0.00,0.00,0.0,Matches
+19,Clint Irwin\Clint-Irwin,us USA,GK,Colorado,30,1989,4,4,360,4.0,2.00,2.00,5.25,3.25,61.9,0.50,0.00,0.50,0.00,0.0,0.25,0.00,0.25,0.00,100.0,Matches
+20,Aljaž Ivačič\Aljaz-Ivacic,si SVN,GK,Portland,26,1993,2,2,180,2.0,1.50,1.50,4.00,2.00,62.5,0.50,0.00,0.50,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+21,David Jensen\David-Jensen,dk DEN,GK,NY Red Bulls,27,1992,11,10,929,10.3,1.46,1.45,3.69,2.23,60.5,0.39,0.10,0.49,0.19,20.0,0.00,0.00,0.00,0.00,,Matches
+22,Sean Johnson\Sean-Johnson,us USA,GK,NYCFC,30,1989,23,23,2070,23.0,1.09,1.09,4.30,3.30,77.8,0.52,0.13,0.35,0.30,30.4,0.17,0.13,0.04,0.00,25.0,Matches
+23,Jonathan Klinsmann\Jonathan-Klinsmann,us USA,GK,LA Galaxy,22,1997,4,4,360,4.0,2.75,2.75,6.75,4.25,63.0,0.25,0.00,0.75,0.25,25.0,0.25,0.25,0.00,0.00,0.0,Matches
+24,Brad Knighton\Brad-Knighton,us USA,GK,New England,34,1985,1,1,90,1.0,1.00,1.00,6.00,5.00,83.3,0.00,1.00,0.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+25,Kenneth Kronholm\Kenneth-Kronholm,de GER,GK,Chicago,34,1985,5,5,450,5.0,1.60,1.60,2.80,1.20,42.9,0.20,0.20,0.60,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+26,Zac MacMath\Zac-MacMath,us USA,GK,Real Salt Lake,28,1991,6,6,540,6.0,1.17,1.17,3.50,2.33,66.7,0.17,0.50,0.33,0.50,50.0,0.00,0.00,0.00,0.00,,Matches
+27,J.T. Marcinkowski\JT-Marcinkowski,us USA,GK,San Jose,22,1997,11,11,990,11.0,1.27,1.27,3.45,2.27,63.2,0.55,0.18,0.27,0.36,36.4,0.00,0.00,0.00,0.00,,Matches
+28,Marko Marić\Marko-Maric,hr CRO,GK,Houston,24,1996,23,23,2070,23.0,1.74,1.74,5.04,3.43,68.1,0.17,0.39,0.43,0.13,13.0,0.17,0.13,0.04,0.00,25.0,Matches
+29,Jimmy Maurer\Jimmy-Maurer,us USA,GK,FC Dallas,31,1988,16,16,1391,15.5,0.84,0.84,4.26,3.48,83.3,0.39,0.39,0.26,0.45,43.8,0.13,0.13,0.00,0.00,0.0,Matches
+30,John McCarthy\John-McCarthy,us USA,GK,Miami,27,1992,8,8,720,8.0,1.25,1.25,3.38,2.38,70.4,0.50,0.13,0.38,0.13,12.5,0.25,0.25,0.00,0.00,0.0,Matches
+31,Ryan Meara\Ryan-Meara,us USA,GK,NY Red Bulls,29,1990,13,13,1141,12.7,1.26,1.26,4.02,2.83,74.5,0.39,0.31,0.31,0.31,30.8,0.24,0.24,0.00,0.00,0.0,Matches
+32,Phelipe Megiolaro\Phelipe-Megiolaro,br BRA,GK,FC Dallas,20,1999,1,1,90,1.0,3.00,3.00,8.00,5.00,62.5,0.00,0.00,1.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+33,Tim Melia\Tim-Melia,us USA,GK,Sporting KC,33,1986,20,20,1783,19.8,1.06,1.06,3.89,2.78,72.7,0.56,0.15,0.30,0.35,35.0,0.10,0.00,0.05,0.05,100.0,Matches
+34,Bryan Meredith\Bryan-Meredith,us USA,GK,Vancouver,30,1989,3,3,270,3.0,3.33,3.33,9.00,6.33,63.0,0.00,0.00,1.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+35,Tyler Miller\Tyler-Miller,us USA,GK,Minnesota,26,1993,5,5,450,5.0,1.20,1.20,3.40,2.60,76.5,0.60,0.40,0.00,0.20,20.0,0.40,0.40,0.00,0.00,0.0,Matches
+36,David Ochoa\David-Ochoa,us USA,GK,Real Salt Lake,19,2001,1,1,90,1.0,2.00,2.00,6.00,4.00,66.7,0.00,0.00,1.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+37,James Pantemis\James-Pantemis,ca CAN,GK,Montreal,22,1997,3,3,270,3.0,2.33,2.33,8.33,5.67,72.0,0.33,0.00,0.67,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+38,Andrew Putna\Andrew-Putna,us USA,GK,Real Salt Lake,25,1994,15,15,1350,15.0,1.73,1.73,4.27,2.60,60.9,0.27,0.27,0.47,0.27,26.7,0.07,0.07,0.00,0.00,0.0,Matches
+39,Greg Ranjitsingh\Greg-Ranjitsingh,tt TRI,GK,Minnesota,26,1993,3,3,270,3.0,2.67,2.67,7.00,5.00,66.7,0.00,0.00,1.00,0.00,0.0,0.33,0.33,0.00,0.00,0.0,Matches
+40,Spencer Richey\Spencer-Richey,us USA,GK,FC Cincinnati,27,1992,10,9,820,9.1,1.65,1.65,3.74,2.20,58.8,0.11,0.11,0.77,0.22,22.2,0.11,0.11,0.00,0.00,0.0,Matches
+41,Luis Robles\Luis-Robles,us USA,GK,Miami,35,1984,15,15,1350,15.0,1.67,1.67,3.73,2.27,58.9,0.20,0.13,0.67,0.13,13.3,0.33,0.13,0.13,0.07,50.0,Matches
+42,Eloy Room\Eloy-Room,cw CUW,GK,Columbus,30,1989,17,17,1510,16.8,0.89,0.89,3.21,2.44,79.6,0.54,0.30,0.18,0.42,41.2,0.24,0.24,0.00,0.00,0.0,Matches
+43,Brian Rowe\Brian-Rowe,us USA,GK,Orlando City,31,1988,4,4,360,4.0,1.25,1.25,5.00,3.75,75.0,0.00,0.75,0.25,0.25,25.0,0.00,0.00,0.00,0.00,,Matches
+44,Richard Sánchez\Richard-Sanchez,mx MEX,GK,Sporting KC,25,1994,2,1,105,1.2,3.33,3.43,4.17,1.67,20.0,0.83,0.00,0.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+45,Chris Seitz\Chris-Seitz,us USA,GK,D.C. United,32,1987,6,6,540,6.0,1.50,1.50,5.33,3.83,71.9,0.33,0.33,0.33,0.33,33.3,0.00,0.00,0.00,0.00,,Matches
+46,Bobby Shuttleworth\Bobby-Shuttleworth,us USA,GK,Chicago,32,1987,17,17,1530,17.0,1.65,1.65,4.65,3.06,65.8,0.24,0.41,0.35,0.24,23.5,0.12,0.06,0.00,0.06,0.0,Matches
+47,Pablo Sisniega\Pablo-Sisniega,mx MEX,GK,Los Angeles FC,24,1995,14,14,1260,14.0,1.64,1.64,3.71,2.50,63.5,0.50,0.14,0.36,0.14,14.3,0.29,0.29,0.00,0.00,0.0,Matches
+48,Connor Sparrow\Connor-Sparrow,us USA,GK,Chicago,25,1994,1,1,90,1.0,3.00,3.00,7.00,4.00,57.1,0.00,0.00,1.00,0.00,0.0,0.00,0.00,0.00,0.00,,Matches
+49,Dayne St. Clair\Dayne-St-Clair,ca CAN,GK,Minnesota,22,1997,13,13,1170,13.0,1.00,1.00,4.62,3.46,78.3,0.46,0.38,0.15,0.46,46.2,0.15,0.00,0.08,0.08,100.0,Matches
+50,Andrew Tarbell\Andrew-Tarbell,us USA,GK,Columbus,26,1993,7,6,560,6.2,0.97,0.96,3.55,2.90,81.8,0.48,0.00,0.48,0.32,33.3,0.32,0.32,0.00,0.00,0.0,Matches
+51,Matt Turner\Matt-Turner,us USA,GK,New England,25,1994,22,22,1980,22.0,1.09,1.09,4.27,3.32,75.5,0.36,0.32,0.32,0.27,27.3,0.05,0.05,0.00,0.00,0.0,Matches
+52,Przemysław Tytoń\Przemyslaw-Tyton,pl POL,GK,FC Cincinnati,33,1987,12,12,1070,11.9,1.60,1.60,3.95,2.44,61.7,0.17,0.25,0.59,0.42,41.7,0.08,0.08,0.00,0.00,0.0,Matches
+53,Kenneth Vermeer\Kenneth-Vermeer,nl NED,GK,Los Angeles FC,34,1986,8,8,720,8.0,2.00,2.00,4.13,2.25,51.5,0.25,0.38,0.38,0.13,12.5,0.13,0.00,0.13,0.00,100.0,Matches
+54,Quentin Westberg\Quentin-Westberg,us USA,GK,Toronto FC,33,1986,20,20,1800,20.0,1.30,1.30,3.60,2.40,66.7,0.55,0.20,0.25,0.30,30.0,0.10,0.10,0.00,0.00,0.0,Matches
+55,Joe Willis\Joe-Willis,us USA,GK,Nashville,31,1988,23,23,2070,23.0,0.96,0.96,4.00,3.04,76.1,0.35,0.35,0.30,0.39,39.1,0.00,0.00,0.00,0.00,,Matches
+56,William Yarbrough\William-Yarbrough,us USA,GK,Colorado,30,1989,14,14,1260,14.0,1.43,1.43,4.79,3.57,73.1,0.43,0.29,0.29,0.29,28.6,0.14,0.14,0.00,0.00,0.0,Matches
+57,Kyle Zobeck\Kyle-Zobeck,us USA,GK,FC Dallas,29,1990,4,3,319,3.5,1.71,1.69,4.57,3.14,68.8,0.57,0.00,0.29,0.00,0.0,0.29,0.29,0.00,0.00,0.0,Matches
